@@ -1,0 +1,21 @@
+/* ResumeStyles.module.css */
+.container {
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .resumeContent {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  h2, h3 {
+    margin-top: 1.5rem;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 2rem;
+  }
